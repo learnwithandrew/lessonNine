@@ -1,0 +1,28 @@
+.pizzaForm-container {
+    width: 100%;
+}
+
+.pizzaForm-container form {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+form input[type="text"] {
+    padding-left: 10px;
+    padding: 5px;
+    width: 450px;
+}
+
+form input[type="submit"] {
+    background-color: green;
+    margin-left: 10px;
+    padding: 5px;
+    color: #fff;
+    border-radius: 5px;
+}

@@ -1,0 +1,16 @@
+.pizzaItem-container table {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+table .edit-button {
+    width: 100px;
+    padding: 5px;
+}
+
+table td,
+th {
+    text-align: center;
+    padding-top: 10px;
+}

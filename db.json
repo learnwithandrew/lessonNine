@@ -1,0 +1,16 @@
+{
+  "pizzas": [
+    {
+      "id": "0366",
+      "toppings": "mushroom",
+      "size": "medium",
+      "vegetarian": "yes"
+    },
+    {
+      "id": "7277",
+      "toppings": "chicken peri peri",
+      "size": "large",
+      "vegetarian": "no"
+    }
+  ]
+}
